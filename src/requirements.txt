@@ -3,7 +3,7 @@ aspy.yaml==1.3.0
 backcall==0.1.0
 boto3==1.9.220
 botocore==1.12.220
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 cfgv==2.0.0
 chardet==3.0.4
